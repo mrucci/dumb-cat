@@ -5,3 +5,6 @@ As technological advances allow us to implement more and more complex applicatio
 
 In particular, this dumb cat is dumb.  And he should feel dumb.
 
+<small>
+Photo courtesy of [dat'](http://www.flickr.com/photos/dat-pics/)
+</small>
