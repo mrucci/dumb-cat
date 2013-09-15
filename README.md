@@ -1,4 +1,7 @@
-dumb-cat
-========
+[dumb-cat](http://mrucci.github.io/dumb-cat/)
+=============================================
 
-Dumb cat is dumb.  And he should feel dumb.
+As technological advances allow us to implement more and more complex applications, our brains' desire of dumb cats increases exponentially.  Scientists say.
+
+In particular, this dumb cat is dumb.  And he should feel dumb.
+
