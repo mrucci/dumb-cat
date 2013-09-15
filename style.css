@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+}
+
+.bg, .eye, .pupil {
+    position: absolute;
+}
+
+.pupil img {
+    position: relative;
+    top: -30px;
+    left: -50%;
+}
+
+.bg {
+    z-index: 2;
+}
+
+.pupil {
+    z-index: 1;
+}
+
+.eye {
+    z-index: 0;
+}
+
+.dot {
+    position: absolute;
+    background: #f00;
+    width: 10px;
+    height: 10px;
+    z-index: 4;
+    display: none;
+}
+
+.circle {
+    position: absolute;
+    background: transparent;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border:1px solid #f00;
+}
